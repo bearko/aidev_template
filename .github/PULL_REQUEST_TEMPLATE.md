@@ -16,7 +16,7 @@
 
 ## テスト・確認の証跡
 
-<!-- [docs/testing/TESTING_STRATEGY.md](../docs/testing/TESTING_STRATEGY.md) に沿って記載 -->
+<!-- docs/testing/TESTING_STRATEGY.md（リポジトリルートからのパス。PR 本文内のリンクはルート相対が確実）に沿って記載 -->
 
 - 自動テスト: <!-- CI リンクまたはコマンドと結果 -->
 - 手動確認: <!-- 手順と環境 -->

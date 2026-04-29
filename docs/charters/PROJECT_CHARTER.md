@@ -32,7 +32,7 @@
 
 ## 5. 用語と優先順位
 
-- **憲章と仕様の関係**: 本憲章と [DEVELOPMENT_CHARTER.md](./DEVELOPMENT_CHARTER.md) はプロジェクト全体の「枠」である。個別機能の詳細は [SPEC](../specs/SPEC-INDEX.md) が優先するが、憲章と矛盾する SPEC は無効とみなし、憲章または SPEC を改定して整合を取る。
+- **憲章と仕様の関係**: 本憲章と [DEVELOPMENT_CHARTER.md](./DEVELOPMENT_CHARTER.md) はプロジェクト全体の「枠」である。個別機能の詳細は [SPEC-INDEX.md](../specs/SPEC-INDEX.md) が示す各 SPEC が優先するが、憲章と矛盾する SPEC は無効とみなし、憲章または SPEC を改定して整合を取る。
 
 ## 6. 改定
 
