@@ -17,6 +17,7 @@
 
 - **仕様が単一の真実の源泉**: 曖昧なら SPEC を更新するか、Human-in-the-loop で質問する。勝手に仕様を広げない。
 - **小さな変更単位**: 1 PR（または論理的なまとまり）で一つの意図に寄せる。
+- **マージ前レビュー**: `main` 等の保護ブランチへ入れる変更は **人間のレビュー（承認）後にのみマージ** する。CI の緑はマージの十分条件ではない（[docs/process/GIT_WORKFLOW.md](docs/process/GIT_WORKFLOW.md)）。チームが文書化した例外がない限り、エージェントはマージしない。
 - **証跡**: テスト・手動確認・レビュー結果は [docs/testing/TESTING_STRATEGY.md](docs/testing/TESTING_STRATEGY.md) に沿って PR や SPEC に残す。
 
 ## 人間へのエスカレーション

@@ -25,7 +25,7 @@
 1. このリポジトリをフォークするか、`docs/` と `AGENTS.md` を自分のプロジェクトにコピーする。
 2. [PROJECT_CHARTER.md](docs/charters/PROJECT_CHARTER.md) と [DEVELOPMENT_CHARTER.md](docs/charters/DEVELOPMENT_CHARTER.md) をプロジェクトに合わせて埋める。
 3. [SPEC-000-template.md](docs/specs/SPEC-000-template.md) を複製し、`SPEC-001-...` のように番号と題名を付け、[SPEC-INDEX.md](docs/specs/SPEC-INDEX.md) に登録する。
-4. チームで [GIT_WORKFLOW.md](docs/process/GIT_WORKFLOW.md) と [HUMAN_IN_THE_LOOP.md](docs/process/HUMAN_IN_THE_LOOP.md) を合意する。
+4. チームで [GIT_WORKFLOW.md](docs/process/GIT_WORKFLOW.md) と [HUMAN_IN_THE_LOOP.md](docs/process/HUMAN_IN_THE_LOOP.md) を合意する。**既定では `main` へのマージは人間レビュー（承認）必須** — ホスティングのブランチ保護・必須レビュー数を設定し、CI だけでマージされないようにすること。
 
 ## ライセンス
 
