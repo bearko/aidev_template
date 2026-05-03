@@ -17,7 +17,7 @@
 
 - **尊重**: レビューは行動ではなく成果物に焦点を当てる。
 - **非同期ファースト**: 判断材料は PR 本文・SPEC・チケットに書き、口頭だけに残さない。
-- **Human-in-the-loop**: [HUMAN_IN_THE_LOOP.md](../process/HUMAN_IN_THE_LOOP.md) に定める局面では、自動化を止めて人の承認を得る。
+- **Human-in-the-loop**: 人間の承認は **PR レビュー** に集約する。重要な論点は PR 本文の「マージ前確認事項（HITL）」セクションに明記し、レビュア承認をもってマージ可否を決める。詳細は [HUMAN_IN_THE_LOOP.md](../process/HUMAN_IN_THE_LOOP.md)。
 
 ## 4. AI / エージェントの利用
 
